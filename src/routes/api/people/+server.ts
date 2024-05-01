@@ -1,9 +1,22 @@
-import { AIRTABLE_API_KEY } from '$env/static/private'
-import { options } from '$lib/api.js'
+//import { AIRTABLE_API_KEY } from '$env/static/private'
+//import { options } from '$lib/api.js'
 import type { Person } from '$lib/types.js'
 import { json } from '@sveltejs/kit'
 
-function recordToPerson(record: any): Person {
+
+//Jan-Erik
+const je:Person = {
+	id: 'janerik',
+	name: 'Jan-Erik Vinje',
+	bio: 'Jeg er en 46 år gammel familiefar med kone og to barn som jobber med teknologi (AR + Geospatial). Jeg tror kjærlighet er svaret på å passere Fermi-filteret. Selv om jeg er en agnostisk ateist, anser jeg Carl Sagans vakre og dype "Pale Blue Dot"-monolog som en slags hellig tekst, og vender tilbake til den som en form for "preken". Jeg tror vi jordboere kan finne en vei til en flott fremtid hvis vi lærer hvordan i tide.',
+	title: 'Frivillig',
+	image: './biopic/BioPic_JE.png',
+	privacy: false
+}	
+
+
+
+/*function recordToPerson(record: any): Person {
 	return {
 		id: record.id || 'noId',
 		name: record.fields.Name,
@@ -12,10 +25,14 @@ function recordToPerson(record: any): Person {
 		image: record.fields.Image && record.fields.Image[0].thumbnails.large.url,
 		privacy: record.fields.privacy
 	}
-}
+}*/
 
-export async function GET({ fetch }) {
-	const url = `https://api.airtable.com/v0/appWPTGqZmUcs3NWu/tblZhQc49PkCz3yHd`
+const people: Person[] = [je];
+
+//export async function GET({ fetch }) {
+export function GET() {
+	return json(people)
+	/*const url = `https://api.airtable.com/v0/appWPTGqZmUcs3NWu/tblZhQc49PkCz3yHd`
 
 	const response = await fetch(url, options)
 	if (!response.ok) {
@@ -26,6 +43,5 @@ export async function GET({ fetch }) {
 		.map(recordToPerson)
 		.filter((p: Person) => p.image && !p.privacy)
 		// Shuffle the array, although not truly random
-		.sort(() => 0.5 - Math.random())
-	return json(out)
+		.sort(() => 0.5 - Math.random())*/
 }

@@ -17,47 +17,45 @@
 	<div class="footer-links">
 		<div class="column">
 			<h2>Info</h2>
-			<a href="/faq">FAQ</a>
-			<a href="/proposal">Proposal</a>
-			<a href="/learn">Learn</a>
-			<a href="/press">Press / Media</a>
-			<a href="/people">People</a>
-			<a href="/teams">Teams</a>
-			<a href="/legal">Legal Info <br /> Stichting PauseAI <br /> (kvk 92951031)</a>
+			<a href="https://pauseai.info/faq">FAQ</a>
+			<a href="/proposal">Forslag</a>
+			<a href="https://pauseai.info/learn">Lær mer</a>
+			<a href="/press">Presse / Media</a>
+			<a href="/people">Folk</a>
+			<a href="https://pauseai.info/teams">Team</a>
+			<a href="https://pauseai.info/legal">Formell info om <br /> PauseAI <br /> (kvk 92951031)</a>
 		</div>
 		<div class="column">
-			<h2>Risks</h2>
-			<a href="/risks">Risks overview</a>
-			<a href="/outcomes">AI Outcomes</a>
-			<a href="/xrisk">Existential risk</a>
-			<a href="/psychology-of-x-risk">Psychology of x-risk</a>
-			<a href="/ai-takeover">AI takeover</a>
-			<a href="/cybersecurity-risks">Cybersecurity</a>
-			<a href="/dangerous-capabilities">Dangerous capabilities</a>
-			<a href="/sota">State of the art</a>
-			<a href="/urgency">Urgency</a>
+			<h2>Risiko</h2>
+			<a href="/risks">Risiko oversikt</a>
+			<a href="https://pauseai.info/outcomes">AI-konsekvenser</a>
+			<a href="https://pauseai.info/xrisk">Existensiell risiko</a>
+			<a href="https://pauseai.info/psychology-of-x-risk">Psykologi rundt x-risk</a>
+			<a href="https://pauseai.info/ai-takeover">AI overtakelse</a>
+			<a href="https://pauseai.info/cybersecurity-risks">Cyber-risiko</a>
+			<a href="https://pauseai.info/dangerous-capabilities">Farlige kapabiliteter</a>
+			<a href="https://pauseai.info/sota">Dagens kapabiliteter</a>
+			<a href="https://pauseai.info/urgency">Hvor mye haster det?</a>
 		</div>
 		<div class="column">
-			<h2>Take Action</h2>
-			<a href="/join">Join PauseAI</a>
-			<a href="/action">How you can help</a>
-			<a href="/communities">Local communities</a>
-			<a href="donate">Donate</a>
-			<ExternalLink href="https://pauseai-shop.fourthwall.com" target="_blank"
-				>Merchandise</ExternalLink
-			>
-			<a href="/protests">Protests</a>
-			<a href="/organizing-a-protest">Organize a protest</a>
-			<a href="/email-builder">Email builder</a>
-			<a href="/lobby-tips">Lobby tips</a>
+			<h2>Bidra aktivt</h2>
+			<a href="https://pauseai.info/join">Bli med i PauseAI</a>
+			<a href="https://pauseai.info/action">Hvordan kan du bidra?</a>
+			<a href="https://pauseai.info/communities">Lokale grupper</a>
+			<a href="https://pauseai.info/donate">Donate</a>
+			<ExternalLink href="https://pauseai-shop.fourthwall.com" target="_blank">Merchandise</ExternalLink>
+			<a href="https://pauseai.info/protests">Protester</a>
+			<a href="/organizing-a-protest">Organiser en protest</a>
+			<a href="https://pauseai.info/email-builder">Epost skrivings verktøy</a>
+			<a href="https://pauseai.info/lobby-tips">Tips for lobby-virksomhet</a>
 		</div>
 		<div class="column">
-			<h2>Other</h2>
+			<h2>Annet</h2>
 			<Toggle />
 			<WithdrawWidgetConsent />
 			<Edit />
-			<a href="/posts">All pages</a>
-			<a href="/rss.xml" target="_blank">RSS</a>
+			<a href="https://pauseai.info/posts">All pages</a>
+			<a href="https://pauseai.info/rss.xml" target="_blank">RSS</a>
 			<ExternalLink href="https://creativecommons.org/licenses/by/4.0/" target="_blank"
 				>License: CC-BY 4.0</ExternalLink
 			>

@@ -1,20 +1,20 @@
 ---
-title: Risks of artificial intelligence
-description: AI threatens our democracy, our technology, and our species.
+title: Risiko med kunstig intelligens (AI)
+description: AI truer demokratiet, samfunnet og menneskeheten.
 ---
 
-AI is a powerful technology that is increasingly transforming our world.
-It comes with amazing potential, but also with serious risks, including [existential catastrophe](/xrisk).
+AI er en kraftig teknologi som i økende grad endrer verden. Den kommer med fantastiske muligheter, men vi risikerer alvorlige negative konsekvenser inkludert [eksistensiell risiko (x-risk).](https://pauseai.info/xrisk).
 
-## Present dangers
+Les videre om AI-risiko på på den [engelskspråklige siden](https://pauseai.info/risks)
+<!--
+## Umiddelbare farer
 
-### Fake news, polarization and threatening democracy
+### Fake news, polarisering og trusler mot demokratiet
 
-Much of our society is based on trust. We trust that the money in our bank account is real, that the news we read is true, and that the people who post reviews online exist.
+Mye av samfunnet vårt er basert på tillit. Vi stoler på at pengene på bankkontoen vår er ekte, at nyhetene vi leser er sanne, og at personene som legger ut anmeldelser online eksisterer.
 
-AI systems are exceptionally good at creating fake media.
-They can create fake videos, fake audio, fake text, and fake images.
-These capabilities are improving rapidly.
+AI-systemer er eksepsjonelt flinke til å lage falske medier. De kan lage falske videoer, falsk lyd, falsk tekst og falske bilder. Disse egenskapene forbedres raskt.
+
 Just two years ago, we laughed at the horribly unrealistic Dall-E images, but now we have [deepfake images winning photography contests](https://www.theguardian.com/technology/2023/apr/17/photographer-admits-prize-winning-image-was-ai-generated).
 A 10-second audio clip or a single picture can be enough to create a convincing deepfake.
 
@@ -47,8 +47,7 @@ Biased systems used in law enforcement, such as predictive policing algorithms, 
 Generative AI models do not just copy the biases from their training data, [they amplify them](https://www.bloomberg.com/graphics/2023-generative-ai-bias/).
 These biases often appear without the creators of the AI system being aware of them.
 
-<!-- ### Data Privacy
--->
+
 ### Job loss, economic inequality and instability
 
 During the industrial revolution, many people lost their jobs to machines.
@@ -189,3 +188,4 @@ This means that the safest thing to do now is to **slow down**.
 We need to pause the development of more powerful AI systems until we have figured out how to deal with the risks.
 
 See [our proposal](/proposal) for more details.
+-->

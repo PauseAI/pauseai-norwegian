@@ -23,17 +23,17 @@
 
 	<div class="nav-right">
 		<div class="nav-links">
-			<NavLink href="/risks">Risks</NavLink>
-			<NavLink href="/proposal">Proposal</NavLink>
-			<NavLink href="/protests">Protests</NavLink>
-			<NavLink href="/faq">FAQ</NavLink>
-			<NavLink href="/action">Act</NavLink>
-			<NavLink href="/donate">Donate</NavLink>
+			<NavLink href="/risks">Risiko</NavLink>
+			<NavLink href="/proposal">Forslag</NavLink>
+			<NavLink href="https://pauseai.info/protests">Protester</NavLink>
+			<NavLink href="https://pauseai.info/faq">FAQ</NavLink>
+			<NavLink href="https://pauseai.info/action">Bidra</NavLink>
+			<NavLink href="https://pauseai.info/donate">Doner</NavLink>
 			{#if enableBot}
 				<NavLink href="/chat">{botName}</NavLink>
 			{/if}
 			<!-- <NavLink href="/about">About</NavLink> -->
-			<NavLink c2a href="/join">Join</NavLink>
+			<NavLink c2a href="https://pauseai.info/join">Bli med!</NavLink>
 			<NavLink href="/search" ariaLabel="Search"><SearchIcon size="0.8em" /></NavLink>
 		</div>
 	</div>
