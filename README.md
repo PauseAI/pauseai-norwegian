@@ -1,6 +1,6 @@
-# PauseAI.info website
+# PauseAI.no website
 
-SvelteKit website for [PauseAI.info](https://pauseai.info/).
+SvelteKit website for [PauseAI.no](https://pauseai.no/).
 
 ## Creating articles
 
@@ -35,4 +35,4 @@ pnpm run dev
 ```
 
 ## Deployment
-The contents of the repository are continuously deployed to Netlify. You can track the deployment status [here](https://app.netlify.com/sites/pauseai/deploys).
+The contents of the repository are continuously deployed to Netlify. 
