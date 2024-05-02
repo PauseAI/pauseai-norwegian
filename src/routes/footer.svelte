@@ -2,7 +2,7 @@
 	import ExternalLink from '$lib/components/custom/a.svelte'
 	import Toggle from '$lib/components/Toggle.svelte'
 	import Edit from '$lib/components/Edit.svelte'
-	import WithdrawWidgetConsent from '$lib/components/widget-consent/WithdrawWidgetConsent.svelte'
+	import WithdrawWidgetConsentNorwegian from '$lib/components/widget-consent/WithdrawWidgetConsentNorwegian.svelte'
 	import Socials from '$lib/components/Socials.svelte'
 </script>
 
@@ -42,8 +42,8 @@
 			<a href="https://pauseai.info/join">Bli med i PauseAI</a>
 			<a href="https://pauseai.info/action">Hvordan kan du bidra?</a>
 			<a href="https://pauseai.info/communities">Lokale grupper</a>
-			<a href="https://pauseai.info/donate">Donate</a>
-			<ExternalLink href="https://pauseai-shop.fourthwall.com" target="_blank">Merchandise</ExternalLink>
+			<a href="https://pauseai.info/donate">Doner</a>
+			<ExternalLink href="https://pauseai-shop.fourthwall.com" target="_blank">Buttikk med logovarer</ExternalLink>
 			<a href="https://pauseai.info/protests">Protester</a>
 			<a href="/organizing-a-protest">Organiser en protest</a>
 			<a href="https://pauseai.info/email-builder">Epost skrivings verktøy</a>
@@ -52,16 +52,16 @@
 		<div class="column">
 			<h2>Annet</h2>
 			<Toggle />
-			<WithdrawWidgetConsent />
+			<WithdrawWidgetConsentNorwegian />
 			<Edit />
-			<a href="https://pauseai.info/posts">All pages</a>
+			<a href="https://pauseai.info/posts">Alle sider</a>
 			<a href="https://pauseai.info/rss.xml" target="_blank">RSS</a>
 			<ExternalLink href="https://creativecommons.org/licenses/by/4.0/" target="_blank"
 				>License: CC-BY 4.0</ExternalLink
 			>
 			<ExternalLink
 				href="https://airtable.com/appWPTGqZmUcs3NWu/pagIvo9Sv6IDHaolu/form"
-				target="_blank">Submit feedback</ExternalLink
+				target="_blank">Gi tilbakemelding!k</ExternalLink
 			>
 		</div>
 	</div>
