@@ -33,7 +33,7 @@
 				<NavLink href="/chat">{botName}</NavLink>
 			{/if}
 			<!-- <NavLink href="/about">About</NavLink> -->
-			<NavLink c2a href="https://pauseai.info/join">Bli med!</NavLink>
+			<NavLink c2a href="https://pauseai.info/join">Bli med</NavLink>
 			<NavLink href="/search" ariaLabel="Search"><SearchIcon size="0.8em" /></NavLink>
 		</div>
 	</div>
