@@ -1,14 +1,14 @@
 <script lang="ts">
 	import ExternalLink from '$lib/components/custom/a.svelte'
 	import Toggle from '$lib/components/Toggle.svelte'
-	import Edit from '$lib/components/Edit.svelte'
+	import EditNorwegian from '$lib/components/EditNorwegian.svelte'
 	import WithdrawWidgetConsentNorwegian from '$lib/components/widget-consent/WithdrawWidgetConsentNorwegian.svelte'
 	import Socials from '$lib/components/Socials.svelte'
 </script>
 
 <footer>
 	<div class="joinbar">
-		<a class="c2a" href="/join">Join PauseAI &gt;</a>
+		<a class="c2a" href="/join">Bli med i PauseAI &gt;</a>
 		<div class="socials">
 			<Socials />
 		</div>
@@ -53,7 +53,7 @@
 			<h2>Annet</h2>
 			<Toggle />
 			<WithdrawWidgetConsentNorwegian />
-			<Edit />
+			<EditNorwegian />
 			<a href="https://pauseai.info/posts">Alle sider</a>
 			<a href="https://pauseai.info/rss.xml" target="_blank">RSS</a>
 			<ExternalLink href="https://creativecommons.org/licenses/by/4.0/" target="_blank"
