@@ -25,9 +25,9 @@ Avtalen bør undertegnes av alle medlemsland i FN.
 
 
 - **Etabler et intarnasjonalt AI sikkerhets byrå**, tilsvarnde det Internasjonale Atomenergi Byrået [IAEA](https://www.iaea.org/). Dette byrået vil ha ansvar for:
-  - Gi tillatelse for til _igangsettelse av drift_ av avanserte AI systemer. Dette inkluderer "red-teaming"(testing av sårbarhet for misbruk) og evaluering av system-kapabiliteter.
-  - Gi tillatelse til _igangsettelse av trening_ av avanserte AI-maskinlærings modeller. 
-  - Periodiske møter for å diskutere fremgann innen forskning på AI-sikkerhet.
+  - Å gi tillatelse for til _igangsettelse av drift_ av avanserte AI systemer. Dette inkluderer "red-teaming"(testing av sårbarhet for misbruk) og evaluering av system-kapabiliteter.
+  - Å gi tillatelse til _igangsettelse av trening_ av avanserte AI-maskinlærings modeller. 
+  - Periodiske møter for å diskutere fremgang innen forskning på AI-sikkerhet.
 - **Kun tillate trening av av generelle AI systemer kraftigere enn GPT-4 om sikkerheten kan garanteres**
   - Med "kraftigere enn GPT-4" menes alle AI modeller som enten er 1) Større enn 10^12 parametre 2) Det har blitt brukt mer enn 10^25 flyttallsoperasjoner (FLOP) under treningen, eller 3) om kapabilitetene forventes å kunne overgå GPT-4
   - Merk at dette ikke retter seg mot _smale_ (spesialiserte) AI systmer, slik f.eks. et som brukes for å diagnostisere kreft utifra medisinske bilder. 
