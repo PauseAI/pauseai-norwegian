@@ -12,17 +12,15 @@
 <h1>{title}</h1>
 
 <section data-pagefind-ignore>
-	{#if props.length === 0}
+	{#if props.norwegians.length === 0}
 		<p>Ingen team-medlemmer funnet</p>
 	{/if}
 	<ul class="people">
-		{#each props as { name, image, bio, title }}
+		{#each props.norwegians as { name, image, bio, title }}
 			<Person {name} {image} {bio} {title} />
 		{/each}
 	</ul>
 </section>
-
-<a href="https://pauseai.info/people"><h2>Folk i PauseAI internasjonalt</h2></a>
 
 
 <h2>Bli med å etablere den norske avdelingen av PauseAI</h2>
@@ -33,6 +31,18 @@
 
 </p>
 
+
+<a href="https://pauseai.info/people"><h2>Folk i PauseAI internasjonalt</h2></a>
+<section data-pagefind-ignore>
+	{#if props.international.length === 0}
+		<p>Ingen team-medlemmer funnet</p>
+	{/if}
+	<ul class="people">
+		{#each props.international as { name, image, bio, title }}
+			<Person {name} {image} {bio} {title} />
+		{/each}
+	</ul>
+</section>
 
 <style>
 	.people {

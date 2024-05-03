@@ -1,6 +1,6 @@
 import type { Team } from '$lib/types.js'
 import { json } from '@sveltejs/kit'
-import { options } from '$lib/api.js'
+//import { options } from '$lib/api.js'
 
 function recordToTeam(record: any): Team {
 	return {
@@ -13,13 +13,15 @@ function recordToTeam(record: any): Team {
 }
 
 export async function GET({ fetch }) {
-	const url = `https://api.airtable.com/v0/appWPTGqZmUcs3NWu/tblYLOPzJ32QOdBLg`
-
-	const response = await fetch(url, options)
+	//const url = `https://api.airtable.com/v0/appWPTGqZmUcs3NWu/tblYLOPzJ32QOdBLg`
+	const url = 'https://pauseai.info/api/teams'
+	const response = await fetch(url)
 	if (!response.ok) {
 		throw new Error('Failed to fetch data from Airtable')
 	}
+	
 	const data = await response.json()
-	const out: Team[] = data.records.map(recordToTeam)
-	return json(out)
+	return json(data);
+	//const out: Team[] = data.records.map(recordToTeam)
+	//return json(out)
 }

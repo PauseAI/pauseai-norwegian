@@ -25,6 +25,11 @@ export type Person = {
 	privacy?: boolean
 }
 
+export type People = {
+	international: Person[],
+	norwegians: Person[]
+}
+
 export type Team = {
 	id: string
 	name: string
