@@ -23,8 +23,8 @@
 
 	<div class="nav-right">
 		<div class="nav-links">
-			<NavLink href="/risks">Risiko</NavLink>
-			<NavLink href="/proposal">Forslag</NavLink>
+			<NavLink href="/risiko">Risiko</NavLink>
+			<NavLink href="/forslag">Forslag</NavLink>
 			<NavLink href="https://pauseai.info/protests">Protester</NavLink>
 			<NavLink href="https://pauseai.info/faq">FAQ</NavLink>
 			<NavLink href="https://pauseai.info/action">Bidra</NavLink>
