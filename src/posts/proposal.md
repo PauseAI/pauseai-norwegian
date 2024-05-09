@@ -6,7 +6,7 @@ description: Innfør en midlertidig pause i treningen av AI systemer kraftigere 
 **Innfør en pause på trening av AI systemer som er kraftigere enn GPT-4 ** intil vi vet hvordan dette kan gjøres trygt og under demokratisk styring.
 
 Hvert enkelt land kan innføre dette _umiddelbart_ og på eget initiativ.
-Spesielt US (eller delstaten California spesifikt), bør innføre en pause, siden dette er hvor tilnærmet all ledende AI selskaper opererer fra.
+Spesielt USA (eller delstaten California spesifikt), bør innføre en pause, siden det er her hvor tilnærmet all ledende AI selskaper opererer fra.
 Mange vitenskapsfolk og ledere innen AI industrien [er enige i at en pause er nødvendig](https://futureoflife.org/open-letter/pause-giant-ai-experiments/), og den amerikanske befolkningen stiller seg også sterk støttene til en slik pause ([64%](https://www.campaignforaisafety.org/usa-ai-x-risk-perception-tracker/) - [69%](https://today.yougov.com/topics/technology/survey-results/daily/2023/04/03/ad825/2)).
 
 Men, vi kan ikke forvente at land og selskaper risikerer sine konkurransefortrinn om ikke andre land og selskaper gjør det samme.  

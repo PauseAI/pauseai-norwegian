@@ -3,9 +3,16 @@ title: Risiko med kunstig intelligens (AI)
 description: AI truer demokratiet, samfunnet og menneskeheten.
 ---
 
-AI er en kraftig teknologi som i økende grad endrer verden. Den kommer med fantastiske muligheter, men vi risikerer alvorlige negative konsekvenser inkludert [eksistensiell risiko (x-risk).](https://pauseai.info/xrisk).
+AI er en kraftig teknologi som i økende grad endrer verden. Den kommer med fantastiske muligheter, men vi risikerer alvorlige negative konsekvenser inkludert [eksistensiell risiko (x-risk).](https://pauseai.info/xrisk)
 
-Les videre om AI-risiko på på den [engelskspråklige siden](https://pauseai.info/risks)
+Pause AI anerkjenner at det har oppstått eksisterende problemer med dagens AI teknologi som man må ta på alvor, og vi anerkjenner også fordeler og positive muligheter med dagens AI teknologi.
+
+Pause AI fokuserer alikevel først og fremst på å få stanset  det livsfarlige kappløpet om viderutvikling av de aller kraftigste og mest generellt kapable AI systemene som vi ikke har noen kjente metoder for å kontrollere. Det er en utbredt oppfattning blandt mange av de ledende forskerne og utviklerne av slike avanserte AI systemer at det er en reell risko for at tap av kontroll eller misbruk av disse kan føre til katastrofale utfall inkludert utryddelsen av hele menneskeheten. Det er i følge mange av de fremste innen dette feltet en rell grunn til å forvente at kapabiliteten i de fremste AI sysemene kan passere terskelen hvor den utgjør en slik eksistensiell trussel i løpet av dette tiåret om utviklingen fortsetter slik den nå gjør. Mange av våre smarteste forskere sier altså at om vi fortsetter slik vi gjør nå risikerer vi at ingen av oss overlever dette tiåret. Vi i Pause AI synes ikke potensielle fordeler ved å utvikling av slike AI systemer rettferdigjør slik risiko så lenge vi ikke vet hvordan dette eventuelt kan gjøres på en trygg måte.
+
+Derfor har vi ingen tid å miste for å forhindre at dette skjer.
+
+Les mer [spekteret av AI-risiko ](https://pauseai.info/risks) på vår engelskspåklige side.
+Les mer om [eksistensiell AI-risiko](https://pauseai.info/xrisk) på vår engelskspåklige side.
 <!--
 ## Umiddelbare farer
 
