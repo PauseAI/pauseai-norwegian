@@ -187,7 +187,7 @@
 	</li>
 </ul>
 <p>
-	For more information, you can take a look at our page on <a href="/writing-a-letter">how to write a letter or email to someone in power</a>.
+	For more information, you can take a look at our page on <a href="https://pauseai.info/writing-a-letter">how to write a letter or email to someone in power</a>.
 </p>
 
 <h2>Result</h2>

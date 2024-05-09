@@ -8,7 +8,7 @@
 
 <footer>
 	<div class="joinbar">
-		<a class="c2a" href="/join">Bli med i PauseAI &gt;</a>
+		<a class="c2a" href="https://pauseai.info/join">Bli med i PauseAI &gt;</a>
 		<div class="socials">
 			<Socials />
 		</div>
@@ -20,7 +20,7 @@
 			<a href="https://pauseai.info/faq">FAQ</a>
 			<a href="/proposal">Forslag</a>
 			<a href="https://pauseai.info/learn">Lær mer</a>
-			<a href="/press">Presse / Media</a>
+			<a href="https://pauseai.info/press">Presse / Media</a>
 			<a href="/people">Folk</a>
 			<a href="https://pauseai.info/teams">Team</a>
 			<a href="https://pauseai.info/legal">Formell info om <br /> PauseAI <br /> (kvk 92951031)</a>
@@ -45,7 +45,7 @@
 			<a href="https://pauseai.info/donate">Doner</a>
 			<ExternalLink href="https://pauseai-shop.fourthwall.com" target="_blank">Buttikk med logovarer</ExternalLink>
 			<a href="https://pauseai.info/protests">Protester</a>
-			<a href="/organizing-a-protest">Organiser en protest</a>
+			<a href="https://pauseai.info/organizing-a-protest">Organiser en protest</a>
 			<a href="https://pauseai.info/email-builder">Epost skrivings verktøy</a>
 			<a href="https://pauseai.info/lobby-tips">Tips for lobby-virksomhet</a>
 		</div>
