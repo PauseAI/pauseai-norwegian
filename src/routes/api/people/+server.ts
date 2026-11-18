@@ -36,10 +36,8 @@ const norwegians: Person[] = [je];
 export async function GET() {
 	const url = 'https://pauseai.info/api/people'
 	const response = await fetch(url);
-	if (!response.ok) {
-		throw new Error('Failed to fetch data from PauseAI.info')
-	}
-	const data = await response.json()
+	// pauseai.info no longer serves /api/people; show only the Norwegian list rather than fail the build.
+	const data = response.ok ? await response.json() : []
 	const p:People = {
 		international: data,
 		norwegians: norwegians

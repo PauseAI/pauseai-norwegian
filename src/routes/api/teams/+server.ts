@@ -16,9 +16,8 @@ export async function GET({ fetch }) {
 	//const url = `https://api.airtable.com/v0/appWPTGqZmUcs3NWu/tblYLOPzJ32QOdBLg`
 	const url = 'https://pauseai.info/api/teams'
 	const response = await fetch(url)
-	if (!response.ok) {
-		throw new Error('Failed to fetch data from Airtable')
-	}
+	// pauseai.info no longer serves /api/teams; without this the whole build fails.
+	if (!response.ok) return json([])
 	
 	const data = await response.json()
 	return json(data);

@@ -60,8 +60,8 @@
 				>License: CC-BY 4.0</ExternalLink
 			>
 			<ExternalLink
-				href="https://airtable.com/appWPTGqZmUcs3NWu/pagIvo9Sv6IDHaolu/form"
-				target="_blank">Gi tilbakemelding!k</ExternalLink
+				href="https://pauseai.info/contact"
+				target="_blank">Gi tilbakemelding!</ExternalLink
 			>
 		</div>
 	</div>
