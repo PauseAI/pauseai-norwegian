@@ -17,7 +17,7 @@
 <SvelteMarkdown
 	source={`
 PauseAI consists almost exclusively of [volunteers](/people) ([sign up
-here](https://airtable.com/appWPTGqZmUcs3NWu/pag7ztLh27Omj5s2n/form)). We are organized in teams,
+here](https://pauseai.info/join)). We are organized in teams,
 each working on a different aspect of our movement. Every team has a leader, regular meetings, and
 a Role on the [discord server](https://discord.gg/2XXWXvErfA).
 `}
@@ -38,7 +38,7 @@ a Role on the [discord server](https://discord.gg/2XXWXvErfA).
 
 <p>
 	If you want to join one of the teams, please <A
-		href="https://airtable.com/appWPTGqZmUcs3NWu/pag7ztLh27Omj5s2n/form">sign up as a volunteer!</A
+		href="https://pauseai.info/join">sign up as a volunteer!</A
 	>
 </p>
 
